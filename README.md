@@ -1,4 +1,11 @@
-### Hi there 👋
+### Greetings 👋
+I am a software engineer with 2 years of experience
+### Projects
+1. Ambaar
+   - [Frontend](https://github.com/abdulroufsidhu/ambaar_frontend_repo.git)
+   - [Backend](https://github.com/abdulroufsidhu/ambaar_backend_repo.git)
+
+
 
 <!--
 **abdulroufsidhu/abdulroufsidhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
